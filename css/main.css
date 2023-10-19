@@ -67,13 +67,13 @@ hr {
 	justify-content: space-between;
 }
 
-.story__text {
+.story-block__text {
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-end;
 }
 
-.story__text1 {
+.story__text_size_s {
 	width: 405.076px;
 	flex-shrink: 0;
 	color: rgba(72, 85, 91, 1);
@@ -85,11 +85,11 @@ hr {
 	margin: 81px 0px 30px 0px;
 }
 
-.story__text1 > span {
+.story__text_size_s > span {
 	color: rgba(22, 172, 232, 1);
 }
 
-.story__text2 {
+.story__text_size_s {
 	width: 405.076px;
 	color: rgba(72, 85, 91, 1);
 	font-family: 'Open Sans';

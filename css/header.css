@@ -20,14 +20,14 @@
 	font-family: 'Bebas Neue';
 }
 
-.header__middle-text1 {
+.header__middle-text_size_l {
 	font-family: 'Bebas Neue';
 	font-size: 60px;
 	line-height: normal;
 	letter-spacing: 5.709px;
 }
 
-.header__middle-text2 {
+.header__middle-text_size_s {
 	font-family: 'Open Sans';
 	font-size: 16px;
 	font-weight: 700;
